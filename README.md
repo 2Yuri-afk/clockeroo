@@ -2,6 +2,8 @@
 
 Another stupid tui project I made for fun since I keep burning rice.
 
+![Demo](quick-demo.gif)
+
 ## Install
 
 ```bash
